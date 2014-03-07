@@ -7,16 +7,7 @@ html{
 	background:url('../img/page_bg_tile.jpg') #202027;
 }
 
-body{
-	color:#999;
-	
-	background-image:url('../img/contour.png'),url('../img/page_bg.jpg');
-	background-repeat:no-repeat,no-repeat;
-	background-position: center 117px, center -200px;
 
-	font:15px Calibri,Arial,sans-serif;
-	border:1px solid transparent;
-}
 
 /* Styling the slideshow */
 
